@@ -1,0 +1,9 @@
+import React from 'react';
+
+const Starmorph = () => {
+  return (
+    <h1>Starmorph</h1>
+  );
+};
+
+export default Starmorph;

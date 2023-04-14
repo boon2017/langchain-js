@@ -1,9 +1,5 @@
-import React from 'react';
-
-const Starmorph = () => {
-  return (
-    <h1>Starmorph</h1>
-  );
-};
-
-export default Starmorph;
+1. E-commerce
+2. Digital marketing
+3. Remote work
+4. Cryptocurrency
+5. Artificial intelligence

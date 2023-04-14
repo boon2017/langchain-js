@@ -14,7 +14,7 @@ const chat = new ChatOpenAI({ temperature: 0 });
 export const run = async () => {
   const response = await chat.call([
     new HumanChatMessage(
-      "give me a nextjs component that renders an h1 tag with the text Starmorph'"
+      "give me 5 keywords to gain more income on year 2023'"
     ),
   ]);
 

@@ -26,7 +26,6 @@
   "scripts": {
     "start": "ts-node src/app.ts",
     "build": "tsc",
-    "serve": "node dist/app.js",
     "dev": "ts-node --esm ./src/app.ts"
   },
   "dependencies": {
